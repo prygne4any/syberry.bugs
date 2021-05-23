@@ -53,20 +53,25 @@ look in attachment:https://drive.google.com/file/d/175u0XOtWlbXtLfI-PVF7sg1eSNQE
 
 Expected result:
 2)still is visible only one drop-down menu of "portmeiron"
-
+________________________________
 
 ID:4
-Summary:
+Summary: mentioned phone number is not working
 
-Severity (Critical, Major, Medium, Minor):
-Description:
+Severity (Critical, Major, Medium, Minor): medium
+Description: question 3. "Where can I purchase Sophie Conran wallpaper?" contain a phone number in whong format
 
 Steps to reproduce:
+1)open https://qatest-dev.indvp.com/faqs
+2)call to the phone number written in question 3
+	
 
 Actual result:
+2)impossible to reach this number
 
 Expected result:
-
+2)call could be made
+__________________________________________
 
 ID:5
 Summary:
