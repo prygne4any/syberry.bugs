@@ -1,0 +1,76 @@
+баги относятся к сайту https://qatest-dev.indvp.com/ (делал как тестовое)
+
+ID: 1
+Summary: disorder after "sort by price"
+
+Severity (Critical, Major, Medium, Minor): medium
+Description:After click "sort by price" prices stay in disorder.
+
+
+Steps to reproduce:
+1)open "https://qatest-dev.indvp.com/new-in?page=2"
+2)click  "Sort by" 
+3)choose"Price: low to high""
+4)go to next card of goods
+
+Actual result:
+3)goods are sorted by price
+4)goods aren't sorted by price"
+
+Expected result:
+3)goods are sorted by price
+4)goods are sorted by price
+
+ID:2
+Summary:
+
+Severity (Critical, Major, Medium, Minor):
+Description:
+
+Steps to reproduce:
+
+Actual result:
+
+Expected result:
+
+
+ID:3
+Summary:
+
+Severity (Critical, Major, Medium, Minor):
+Description:
+
+Steps to reproduce:
+
+Actual result:
+
+Expected result:
+
+
+ID:4
+Summary:
+
+Severity (Critical, Major, Medium, Minor):
+Description:
+
+Steps to reproduce:
+
+Actual result:
+
+Expected result:
+
+
+ID:5
+Summary:
+
+Severity (Critical, Major, Medium, Minor):
+Description:
+
+Steps to reproduce:
+
+Actual result:
+
+Expected result:
+
+
+
