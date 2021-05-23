@@ -36,19 +36,23 @@ Actual result: the same menu for both 2) and 3) which contains both "sign in" an
 Expected result:
 2)opened menu to sign in
 3)opened menu to create an acoount
-
+______________________________________________
 
 ID:3
-Summary:
+Summary: 2 drop-down menues are shown at the same time
 
-Severity (Critical, Major, Medium, Minor):
-Description:
+Severity (Critical, Major, Medium, Minor): minor
+Description:2 drop-down menues are shown at the same time
 
-Steps to reproduce:
+Steps to reproduce: 1)click on drop-down menu "portmeiron"
+2)move the mouse to drop-down menu "Gifts"		
 
 Actual result:
+look in attachment:https://drive.google.com/file/d/175u0XOtWlbXtLfI-PVF7sg1eSNQEPNxJ/view?usp=sharing
+2)at the same moment are shown 2 drop-down menues
 
 Expected result:
+2)still is visible only one drop-down menu of "portmeiron"
 
 
 ID:4
