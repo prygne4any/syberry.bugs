@@ -74,16 +74,18 @@ Expected result:
 __________________________________________
 
 ID:5
-Summary:
+Summary:SALE ROOM page not found		
 
-Severity (Critical, Major, Medium, Minor):
-Description:
+Severity (Critical, Major, Medium, Minor): major
+Description: https://qatest-dev.indvp.com/sale-room - this page cannot be reached
 
 Steps to reproduce:
+1)click on "Sale room" section
 
 Actual result:
+1)error 404 - page not found
 
 Expected result:
-
+1)"SALE ROOM" page is opened
 
 
