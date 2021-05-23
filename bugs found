@@ -20,18 +20,22 @@ Actual result:
 Expected result:
 3)goods are sorted by price
 4)goods are sorted by price
-
+___________
 ID:2
-Summary:
+Summary: the same action after a click on "sign in" and "create an account"
 
-Severity (Critical, Major, Medium, Minor):
-Description:
+Severity (Critical, Major, Medium, Minor): minor
+Description: the same action after a click on "sign in" and "create an account" - will appear the same menu
 
-Steps to reproduce:
+Steps to reproduce:"1)look at the high right corner
+2)click on "sign in"
+3)click on "create an account"	
 
-Actual result:
+Actual result: the same menu for both 2) and 3) which contains both "sign in" and "create an acoount"
 
 Expected result:
+2)opened menu to sign in
+3)opened menu to create an acoount
 
 
 ID:3
